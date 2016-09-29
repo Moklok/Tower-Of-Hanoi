@@ -94,8 +94,8 @@ void print_stacks(void) {
       }
       cout << endl;
    }
-   system("PAUSE"); // A pause is needed here; use
-}                   //  another method if you need to.
+   system("PAUSE"); 
+}                   
 
 void pr_chars(int ch, int n) {
      for (int i = 0; i < n; i++) {
